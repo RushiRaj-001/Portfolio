@@ -326,9 +326,12 @@ nav ul li a:hover::after {
 .contact-1 p i {
   font-size: 25px;
   margin-right: 15px;
-  color: #810ca8;
+  color: #ab04ff;
 }
 
+.social-links a:active {
+  color: #810ca8;
+}
 .fa-brands {
   margin: 20px 10px;
   font-size: 30px;
